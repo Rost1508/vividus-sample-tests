@@ -57,8 +57,9 @@ Examples:
 
 
 
-Scenario: Check authorization
+Scenario: Checking user authorization
 Given I am on page with URL `https://wesorg--westxqa.sandbox.my.site.com/community/login`
+When I wait until element located by `xpath(//input[@name='email'])` appears
 When I enter `<email>` in field located by `xpath(//input[@name='email'])`
 When I enter `Qwerty987^%$` in field located by `xpath(//input[@name='password'])`
 When I wait until element located by `xpath(//button[text()='Log In'])` appears
