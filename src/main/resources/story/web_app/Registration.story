@@ -4,10 +4,55 @@ Lifecycle:
 Examples:
 |email                                    |
 | #{generate(numerify 'qaezestore+#####@outlook.com')}               |
-
-
-
-
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
+| #{generate(numerify 'qaezestore+#####@outlook.com')}               |
 
 Scenario: Checking user registration
 Given I am on page with URL `https://wesorg--westxqa.sandbox.my.site.com/community/SelfRegister`
